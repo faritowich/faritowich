@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-About me
-
 * Android Developer at Moscow Credit Bank
 
 * Background in chemical engineering
@@ -11,6 +7,7 @@ About me
 * Love writing Kotlin
 
 [![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich)](https://github.com/faritowich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faritowich&layout=compact)](https://github.com/faritowich/github-readme-stats)
 
 
 <!--
