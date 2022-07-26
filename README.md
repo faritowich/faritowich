@@ -7,8 +7,10 @@
 * Love writing Kotlin
 
 ![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faritowich)](https://github.com/faritowich/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich&show_icons=true)
 
 <!--
 **faritowich/faritowich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
