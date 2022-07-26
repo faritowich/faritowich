@@ -6,8 +6,7 @@
 
 * Love writing Kotlin
 
-[![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich)](https://github.com/faritowich/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faritowich&layout=compact)](https://github.com/faritowich/github-readme-stats)
+[![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faritowich&layout=compact)](https://github.com/faritowich/github-readme-stats)
 
 
 <!--
