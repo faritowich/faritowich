@@ -9,7 +9,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich&show_icons=true&theme=radical)
 
 
-![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faritowich&layout=compact)](https://github.com/faritowich/github-readme-stats)
+![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faritowich)](https://github.com/faritowich/github-readme-stats)
 
 
 <!--
