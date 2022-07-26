@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich)](https://github.com/faritowich/github-readme-stats)
 
 
 <!--
