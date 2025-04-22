@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Android Developer at OTP Group
+* Android Developer at OTP Bank
 * Background in chemical engineering
 
 ![faritowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=faritowich&show_icons=true)
